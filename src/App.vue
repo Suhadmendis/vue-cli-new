@@ -1,6 +1,6 @@
 <template>
   <v-app app>
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-model="drawerRight"
       app
       clipped
@@ -16,7 +16,7 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
-    </v-navigation-drawer>
+    </v-navigation-drawer> -->
 
     <v-app-bar
       app
@@ -52,8 +52,9 @@
       temporary
     ></v-navigation-drawer>
 
-    
-      <HelloWorld/>
+    <br><br><br><br>
+      <HelloWorld>
+       </HelloWorld>
 
     <v-navigation-drawer
       v-model="right"
