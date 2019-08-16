@@ -92,7 +92,11 @@
 // import HelloWorld from './components/inputform6';
 // import HelloWorld from './components/inputform7';
 // import HelloWorld from './components/inputform8';
-import HelloWorld from './components/inputform9';
+// import HelloWorld from './components/inputform9';
+
+// import HelloWorld from './components/autocompletes';
+import HelloWorld from './components/autocompletes1';
+
 
 
 // import HelloWorld from './components/header';
