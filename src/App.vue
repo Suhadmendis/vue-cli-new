@@ -83,7 +83,10 @@
 
 
 <script>
-import HelloWorld from './components/footer';
+import HelloWorld from './components/inputform';
+// import HelloWorld from './components/header';
+// import HelloWorld from './components/footer';
+// import HelloWorld from './components/HelloWorld';
   export default {
     name: 'App',
   components: {
