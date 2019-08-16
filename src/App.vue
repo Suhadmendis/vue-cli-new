@@ -84,8 +84,8 @@
 
 <script>
 // import HelloWorld from './components/inputform';
-import HelloWorld from './components/inputform1';
-// import HelloWorld from './components/inputform2';
+// import HelloWorld from './components/inputform1';
+import HelloWorld from './components/inputform2';
 // import HelloWorld from './components/inputform3';
 // import HelloWorld from './components/inputform4';
 // import HelloWorld from './components/inputform5';
