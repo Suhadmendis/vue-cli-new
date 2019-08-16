@@ -30,11 +30,11 @@
       <v-app-bar-nav-icon @click.stop="drawerRight = !drawerRight"></v-app-bar-nav-icon>
     </v-app-bar>
 
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-model="drawer"
       app
-    >
-      <v-list dense>
+    > -->
+      <!-- <v-list dense>
         <v-list-item @click.stop="left = !left">
           <v-list-item-action>
             <v-icon>exit_to_app</v-icon>
@@ -43,16 +43,18 @@
             <v-list-item-title>Open Temporary Drawer</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-      </v-list>
-    </v-navigation-drawer>
+      </v-list> -->
+    <!-- </v-navigation-drawer> -->
 
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-model="left"
       fixed
       temporary
-    ></v-navigation-drawer>
+    ></v-navigation-drawer> -->
 
     <br><br><br><br>
+
+    
       <HelloWorld>
        </HelloWorld>
 
@@ -94,7 +96,7 @@ import HelloWorld from './components/HelloWorld';
       drawer: null,
       drawerRight: null,
       right: false,
-      left: false,
+      left: false
     }),
   }
 </script>
