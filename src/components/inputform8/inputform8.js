@@ -1,19 +1,5 @@
-export default {
-  name: 'inputform-8',
-  components: {},
-  props: [],
-  data () {
-    return {
-
-    }
-  },
-  computed: {
-
-  },
-  mounted () {
-
-  },
-  methods: {
-
-  }
+  export default {
+    data: () => ({
+    items: ['Foo', 'Bar', 'Fizz', 'Buzz'],
+}),
 }

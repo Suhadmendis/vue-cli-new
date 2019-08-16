@@ -90,8 +90,8 @@
 // import HelloWorld from './components/inputform4';
 // import HelloWorld from './components/inputform5';
 // import HelloWorld from './components/inputform6';
-import HelloWorld from './components/inputform7';
-// import HelloWorld from './components/inputform8';
+// import HelloWorld from './components/inputform7';
+import HelloWorld from './components/inputform8';
 // import HelloWorld from './components/inputform9';
 
 
