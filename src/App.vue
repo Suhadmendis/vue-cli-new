@@ -83,11 +83,11 @@
 
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import HelloWorld from './components/footer';
   export default {
     name: 'App',
   components: {
-    HelloWorld,
+    HelloWorld
   },
     props: {
       source: String,
